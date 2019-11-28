@@ -1,0 +1,31 @@
+REPOSITORIO
+  https://github.com/glrodasz/platzi-backend-node/tree/conexion-a-mongo-atlas
+LINKS
+https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
+https://www.youtube.com/watch?v=kp-NOggyz54
+https://styde.net/porque-laravel-no-es-mvc-y-tu-deberias-olvidarte-de-mvc/
+https://twitter.com/taylorotwell/status/262290285499936768
+
+crear cuenta en
+  https://www.mongodb.com/cloud/atlas
+  pass Mongo1245
+  mongodb+srv://db_user_platzivideos:<password>@cluster0-2buxk.mongodb.net/test
+Clientes Mongo
+  https://robomongo.org/download
+  https://www.mongodb.com/download-center/compass
+  
+Instalar mongo db
+  npm i mongodb
+
+https://docs.mongodb.com/manual/reference/method/js-collection/
+https://docs.mongodb.com/manual/crud/
+https://github.com/uokesita/the-little-mongodb-book/blob/master/es/mongodb.markdown
+
+Manejo de errores BOOM
+  npm i @hapi/boom 
+Instalar Join Control de Schemas, validar datos 
+  npm i @hapi/joi 
+
+Despliege en NOW
+ https://zeit.co/download
+ 
